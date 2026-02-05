@@ -1,0 +1,15 @@
+RewriteEngine On
+
+# Evitar tocar assets, cache, etc.
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Home
+RewriteRule ^$ index.php [L,QSA]
+
+# FAQ
+RewriteRule ^faq/?$ index.php?page=faq [L,QSA]
+
+# Contacto
+RewriteRule ^contacto/?$ index.php?page=contact [L,QSA]
