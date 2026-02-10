@@ -117,19 +117,21 @@
       <img class="v-ps__img" src="assets/img/img1.jpg" alt="Suscriptores Edición Impresa">
       <p class="v-p v-p--t1 v-p--t4">
         DIARIO HOY te acompaña al comienzo del día y comparte contigo el ritual de
-        informarse con calma. Para nosotros, que sostengas este pape! en tus manos es el
+        informarse con calma. Para nosotros, que sostengas este papel en tus manos es el
         mejor impulso para seguir contando historias que importan. Gracias por formar
         parte de nuestra comunidad y por confiar en el periodismo que se hace con mimo y
         honestidad.
       </p>
       <p class="v-p v-p--t1">
-        Si tienes cualquier duda o simplemente quieres darnos una idea para mejorar, llámanos
-        a nuestro <strong>Teléfono de Atención al Suscriptor: 924214302</strong> Nos encanta escucharte y
-        estamos aqui para solucionar cualquier problema que puedas tener con tu suscripcion.
+        Si tienes cualquier duda o simplemente quieres darnos una idea para mejorar, llámanos a nuestro
+        <strong>Teléfono de Atención al Suscriptor: 924214302</strong>.
+        Nos encanta escucharte y
+        estamos aquí para solucionar cualquier problema que puedas tener con tu suscripción.
         Recuerda que, además de recibir el diario en tu casa, o recogerlo en el punto de venta
-        que tu elijas, tienes acceso total a <a href="https://www.hoy.es" title="Diario HOY"><strong>hoy.es</strong></a>.
+        que tu elijas, tienes acceso total a
+        <a href="https://www.hoy.es" title="Diario HOY"><strong>hoy.es</strong></a>.
         <i>Queremos que disfrutes de todas las ventajas de ser "de la casa" y que sientas que este periódico
-        es, hoy mas que nunca,</i> tuyo.
+        es, hoy más que nunca,</i> tuyo.
       </p>
 
       <div class="voc-landing" role="main">
@@ -158,7 +160,7 @@
               <div class="voc-benefit-title">FLEXIBILIDAD</div>
               <div class="voc-benefit-text">
                 Recepción de lunes a viernes en tu empresa y fines de semana en tu domicilio. Posibilidad de cambio temporal,
-                envío a otra dirección y bonos para vacaciones de verano.
+                envío a otra dirección.
               </div>
             </div>
           </div>
@@ -168,7 +170,7 @@
             <div class="voc-benefit-content">
               <div class="voc-benefit-title">FACILIDAD DE PAGO</div>
               <div class="voc-benefit-text">
-                Mensual, trimestral, semestral o anual, con posibilidad de cancelación anticipada recuperando tu dinero.
+                Mensual, trimestral, semestral o anual, con posibilidad de cancelación cuando tu quieras.
               </div>
             </div>
           </div>

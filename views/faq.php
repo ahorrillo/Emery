@@ -135,7 +135,7 @@
           </div>
         </div>
       </div>
-      <p class="v-p">Si. Solo tienes que solicitarla en el correo de Atención al Suscriptor.</p>
+      <p class="v-p">Sí. Solo tienes que solicitarla en el correo de Atención al Suscriptor.</p>
 
       <div class="v-cnt-m v-cnt-m--s">
         <div class="v-cnt-m__c">

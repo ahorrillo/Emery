@@ -191,9 +191,9 @@ La estructura facilita una futura migración a entornos más modernos sin reescr
 ## 👤 Autor
 
 Desarrollado por **Antonio Horrillo Horrillo**.
-<ahorrillo@hoy.es> | <tuanhorrillo@gmail.com> [GitHub](https://github.com/ahorrillo) | [LinkedIn](https://www.linkedin.com/in/antoniohh)
+<ahorrillo@hoy.es> | <tuanhorrillo@gmail.com> | [GitHub](https://github.com/ahorrillo) | [LinkedIn](https://www.linkedin.com/in/antoniohh)
 
-Proyecto creado y mantenido por Antonio Horrillo Horrillo, responsable de la arquitectura, desarrollo y diseño de Mapas.
+Proyecto creado y mantenido por Antonio Horrillo Horrillo, responsable Analista, SEO Técnico y Desarrollo.
 
 ---
 

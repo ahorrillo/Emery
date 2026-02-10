@@ -44,7 +44,7 @@
               <p class="v-p">Web: <a href="https://suscripciones.hoy.es/" title="Diario HOY">https://suscripciones.hoy.es/</a></p>
             </li>
             <li class="v-u__l ">
-              <p class="v-p">Horario de atención: - Lunes a Jueves de 9:00h a 17:00h y los Viernes hasta las 16:00h.</p>
+              <p class="v-p">Horario de atención: - Lunes a Viernes de 9:00h a 14:00h y sábados, domingos y festivos de 09:00h a 11:00h.</p>
             </li>
           </ul>
         </div>
