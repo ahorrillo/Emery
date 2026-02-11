@@ -14,7 +14,7 @@ $cache_time = 3600;
 
 $force_reload = isset($_GET['nocache']);
 
-$BASE_PATH = '/suscripciones/papel';
+$BASE_PATH = '';
 
 if (
     !$force_reload &&
